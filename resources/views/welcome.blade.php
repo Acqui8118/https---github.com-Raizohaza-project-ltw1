@@ -211,7 +211,7 @@
                         <li class="list-group-item">Women's Clother
                              <span class="label label-success pull-right">340</span>
                         </li>
-                        <li class="list-group-item">Kid's
+                        <li class="list-group-item">Kid's Wear
                              <span class="label label-info pull-right">735</span>
                         </li>
 
