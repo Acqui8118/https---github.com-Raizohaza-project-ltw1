@@ -205,10 +205,10 @@
                     </a>
                     <ul class="list-group">
 
-                        <li class="list-group-item">Men's Clother
+                        <li class="list-group-item">Men's Clothing
                              <span class="label label-danger pull-right">300</span>
                         </li>
-                        <li class="list-group-item">Women's Clother
+                        <li class="list-group-item">Women's Clothing
                              <span class="label label-success pull-right">340</span>
                         </li>
                         <li class="list-group-item">Kid's Wear
