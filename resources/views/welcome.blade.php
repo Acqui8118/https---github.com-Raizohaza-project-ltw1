@@ -208,10 +208,10 @@
                         <li class="list-group-item">Men's Clothing
                              <span class="label label-danger pull-right">300</span>
                         </li>
-                        <li class="list-group-item">Women's Clothing
+                        <li class="list-group-item">Women's
                              <span class="label label-success pull-right">340</span>
                         </li>
-                        <li class="list-group-item">Kid's Wear
+                        <li class="list-group-item">Kid's
                              <span class="label label-info pull-right">735</span>
                         </li>
 
